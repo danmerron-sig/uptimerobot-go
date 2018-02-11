@@ -31,7 +31,7 @@ type Config struct {
 
 // Client provides a client to the UptimeRobot API
 type Client struct {
-	apiket	string
+	config	string
 }
 
 // request is used to help build up a request
